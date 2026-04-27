@@ -28,16 +28,19 @@ Para facilitar a execução, o notebook pode ser aberto diretamente no Google Co
 
 ### 📊 Dashboard Power BI
 
-Para visualizar o dashboard interativo:
 
-👉 **Requisitos:**
-- Power BI Desktop instalado  
-https://powerbi.microsoft.com/pt-br/desktop/
+Dashboard interativo foi desenvolvido no Power BI e pode ser acessado pelo link abaixo:
 
-👉 **Passos:**
-1. Baixar o arquivo `.pbix` deste repositório  
-2. Abrir no Power BI Desktop  
-3. Clicar em **Atualizar (Refresh)** se necessário  
+🔗 [Acessar Dashboard](https://app.powerbi.com/groups/me/reports/7e1afbac-9dc5-4ada-9353-7fe29bd66711/45d37cab690069ae6e16?experience=power-bi)
+
+---
+
+### ⚠️ Importante
+
+Para acessar o dashboard, é necessário:
+
+- Possuir uma conta Microsoft (Outlook, Hotmail, corporativa ou acadêmica)
+- Estar logado no Power BI Service
 
 ---
 
