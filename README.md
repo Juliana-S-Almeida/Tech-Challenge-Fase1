@@ -41,32 +41,6 @@ https://powerbi.microsoft.com/pt-br/desktop/
 
 ---
 
-## 📈 Principais Indicadores
-
-- 💰 Receita total: **R$ 15,4 milhões**
-- 📦 Pedidos entregues: **96.478**
-- 💳 Cartão de crédito: **78% da receita**
-- ⭐ Nota média: **4,1**
-- 🚚 Entregas no prazo: **93,2%**
-- 📊 Pedidos avaliados: **99%**
-
----
-
-## 🔍 Principais Insights
-
-### 💳 Pagamentos
-Alta predominância do cartão de crédito, com forte utilização de parcelamento, indicando sensibilidade financeira dos consumidores.
-
-### 🚚 Logística
-Atrasos nas entregas impactam diretamente a satisfação do cliente, reduzindo as avaliações.
-
-### 🧑‍💼 Vendedores
-Baixa concentração de receita entre os principais vendedores, indicando um marketplace pulverizado e com potencial de expansão.
-
-### 📈 Crescimento
-O negócio apresentou crescimento acelerado entre 2016 e 2017, seguido de estabilização, indicando maturidade operacional.
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -89,7 +63,6 @@ O negócio apresentou crescimento acelerado entre 2016 e 2017, seguido de estabi
 ## ⚠️ Observações Técnicas
 
 - Os indicadores consideram apenas pedidos com status **"delivered"**  
-- O cálculo de pedidos avaliados utiliza **DISTINCTCOUNT**, evitando duplicidade  
 - Os dados utilizados são do dataset público da Olist  
 
 ---
