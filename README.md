@@ -58,8 +58,7 @@ Para acessar o dashboard, é necessário:
 
 - 📓 Notebook com análise completa  
 - 📊 Dashboard Power BI  
-- 📄 Documentação do projeto  
-
+  
 ---
 
 ## ⚠️ Observações Técnicas
@@ -67,11 +66,6 @@ Para acessar o dashboard, é necessário:
 - Os indicadores consideram apenas pedidos com status **"delivered"**  
 - Os dados utilizados são do dataset público da Olist  
 
----
-
-## 🧠 Conclusão
-
-A análise demonstra um marketplace em expansão, com forte dependência de crédito e oportunidades de melhoria logística. A distribuição dos vendedores indica potencial de crescimento sustentável.
 
 ---
 
