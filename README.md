@@ -1,7 +1,6 @@
 # 📊 Tech Challenge FIAP - Fase 1  
 ## Análise de Dados do Marketplace Olist
-
----
+----
 
 ## 🎯 Objetivo
 
