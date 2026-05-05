@@ -30,7 +30,7 @@ Para facilitar a execução, o notebook pode ser aberto diretamente no Google Co
 
 Dashboard interativo foi desenvolvido no Power BI e pode ser acessado pelo link abaixo:
 
-🔗 [Acessar Dashboard](https://app.powerbi.com/groups/me/reports/7e1afbac-9dc5-4ada-9353-7fe29bd66711/45d37cab690069ae6e16?experience=power-bi)
+🔗 [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM3Y2ExNzQtN2I1NS00MzU2LWE5YWEtMmZiYjU0OTc1NjlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 ---
 
